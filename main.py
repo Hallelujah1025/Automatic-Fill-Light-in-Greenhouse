@@ -22,9 +22,9 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(4,GPIO.IN)
 
 options = {
-    'productKey': 'a1lwV5asSXB',
+    'productKey': '*******',
     'deviceName': 'fill_light',
-    'deviceSecret': 'oNOjQVaF0CRWqwCSvh6IxfoEcC0DxTWI',
+    'deviceSecret': '***********',
     'regionId': 'cn-shanghai'
 }
 
